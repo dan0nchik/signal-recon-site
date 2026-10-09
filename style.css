@@ -1,0 +1,4 @@
+:root{--bg:#06141f;--fg:#cfe9dc;--phos:#57ff8f;--cyan:#7fd7ff;--muted:#7d9aa3}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 "IBM Plex Mono",ui-monospace,Menlo,monospace;padding:40px 16px}
+main{max-width:720px;margin:0 auto}h1{font-family:"VT323",monospace;font-weight:400;font-size:48px;color:var(--phos);text-shadow:0 0 12px rgba(87,255,143,.5);margin:0 0 8px;letter-spacing:.05em}
+h2{font-family:"VT323",monospace;font-weight:400;font-size:28px;color:var(--cyan);margin:32px 0 8px;letter-spacing:.05em}a{color:var(--cyan)}p,li{max-width:65ch}.muted{color:var(--muted);font-size:14px}
